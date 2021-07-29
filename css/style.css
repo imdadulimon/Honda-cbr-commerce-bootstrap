@@ -2,3 +2,15 @@
     background-color:rgb(45, 57, 68) !important
     ;
 }
+.my-5{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-color{
+    font: size 5px;
+    color: tomato;
+}
+.container img{
+    height: 75%;
+    width: 75%;
+}
